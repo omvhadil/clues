@@ -28,7 +28,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <div class="col-3 border-end position-relativer" style="height: 500px">
         <div
           class="position-absolute d-flex gap-5 fs-5"
-          style="transform: rotate(-90deg); top: 430px; left: -150px"
+          style="transform: rotate(-90deg); top: 430px; left: -170px"
         >
           <RouterLink
             to="/cocktail"
