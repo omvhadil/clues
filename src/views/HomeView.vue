@@ -62,7 +62,8 @@ import { RouterLink, RouterView } from 'vue-router'
 <style scoped>
 .active {
   padding: 0.5rem 1rem;
-  background-color: #6b8e23;
+  background-color: var(--first-color-alt);
   border-radius: 0.5rem;
+  display: block;
 }
 </style>

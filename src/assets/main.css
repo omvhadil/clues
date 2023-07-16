@@ -1,5 +1,26 @@
+:root {
+  --first-color: #793B2D;
+  --first-color-alt: #9E6052;
+}
+
 .app-content{
   max-width: 400px;
   height: 100vh;
-  background-image: linear-gradient(to bottom right, olive , olivedrab);
+  background-color: var(--first-color);
+}
+.bg-firts {
+  background-color:  var(--first-color);
+}
+.text-first {
+  color:  var(--first-color);
+}
+.bg-first-alt {
+  background-color:  var(--first-color-alt);
+}
+.text-first-alt {
+  color:  var(--first-color-alt);
+}
+img {
+  width: 100%;
+  height: auto;s
 }
