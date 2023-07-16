@@ -39,7 +39,7 @@ export const MinumanDingin = [
         id: 7,
         nama: "jus Apel",
         harga: 5000,
-        gambar: '/public/shakes-apel.png'
+        gambar: '/shakes-apel.png'
     },
 ]
 
