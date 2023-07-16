@@ -3,6 +3,9 @@
   --first-color-alt: #9E6052;
 }
 
+body{
+  background-color: var(--first-color);
+}
 .app-content{
   max-width: 400px;
   height: 100vh;
@@ -23,4 +26,8 @@
 img {
   width: 100%;
   height: auto;s
+}
+
+::-webkit-scrollbar {
+  opacity: 0;
 }

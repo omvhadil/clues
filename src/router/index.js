@@ -10,23 +10,23 @@ const router = createRouter({
       children: [
         {
           path: '',
-          name: 'shakes',
-          component: () => import('../views/Shakes.vue')
+          name: 'minuman-dingins',
+          component: () => import('../views/MinumanDingin.vue')
         },
         {
-          path: '/coffee',
-          name: 'coffee',
-          component: () => import('../views/Coffee.vue')
+          path: '/minuman-panas',
+          name: 'minuman-panas',
+          component: () => import('../views/MinumanPanas.vue')
         },
         {
-          path: '/mocktail',
-          name: 'mocktail',
-          component: () => import('../views/Mocktail.vue')
+          path: '/makanan-ringan',
+          name: 'makanan-ringan',
+          component: () => import('../views/MakananRingan.vue')
         },
         {
-          path: '/cocktail',
-          name: 'cocktail',
-          component: () => import('../views/Cocktail.vue')
+          path: '/makanan-berat',
+          name: 'makanan-berat',
+          component: () => import('../views/MakananBerat.vue')
         },
       ]
     },
