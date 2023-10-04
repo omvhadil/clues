@@ -31,3 +31,6 @@ img {
 ::-webkit-scrollbar {
   opacity: 0;
 }
+.cursor {
+  cursor: pointer;
+}

@@ -3,7 +3,7 @@ export const MinumanDingin = [
         id: 1,
         nama: "Squash Lecy",
         harga: 12000,
-        gambar: 'https://www.mcsangatta.com/images/virtuemart/product/resized/LYCHEE%20SQUASH_500x500.jpg'
+        gambar: 'https://s3-ap-southeast-1.amazonaws.com/yoripe-s3-production/uploads/0f2ea440-4337-48b5-8da9-85495977222f.jpg'
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ export const MinumanDingin = [
         id: 3,
         nama: "Root Beer Coffee",
         harga: 15000,
-        gambar: 'https://www.mcsangatta.com/images/virtuemart/product/ICED%20COFFEE%20ROOT%20BEER.jpg'
+        gambar: 'https://media.post.rvohealth.io/wp-content/uploads/2019/10/root-beer-float-soda-732x549-thumbnail.jpg'
     },
     {
         id: 4,
@@ -72,7 +72,7 @@ export const MinumanPanas = [
         id: 5,
         nama: "Wedang Jahe",
         harga: 5000,
-        gambar: 'https://inbisnis.id/wp-content/uploads/2022/04/802a9daf23bff040c546f525d4bd22bc_L.jpg'
+        gambar: 'https://awsimages.detik.net.id/community/media/visual/2019/09/19/abe4b52d-f2b4-4d32-ab42-f996ae04d93c.jpeg?w=600&q=90'
     },
     {
         id: 6,
